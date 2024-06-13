@@ -1,0 +1,98 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+
+
+<body class="nav-md">
+    <div class="container body">
+        <div class="main_container">
+            @await Component.InvokeAsync("_AdminMenuComponentPartial")
+
+            <!-- top navigation -->
+            @await Component.InvokeAsync("_AdminTopNavigationComponentPartial")
+            <!-- /top navigation -->
+            <!-- page content -->
+            <div class="right_col" role="main">
+                <div class="">
+                    <div class="page-title">
+                        <div class="title_left">
+                            <h3>Yetenek Sayfası</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-12 col-sm-12 ">
+                        <div class="x_panel">
+                            <div class="x_title">
+                                <h2>Yetenekler</small></h2>
+                                <ul class="nav navbar-right panel_toolbox">
+                                    <li>
+                                        <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                                    </li>
+                                   
+                                </ul>
+                                <div class="clearfix"></div>
+                            </div>
+                            <div class="x_content">
+                                <div class="row">
+                                    <div class="col-sm-12">
+                                        <div class="card-box table-responsive">
+                                            <table id="datatable-checkbox" class="table table-striped table-bordered bulk_action" style="width:100%">
+                                                <thead>
+                                                    <tr>
+                                                        
+                                                        
+                                                        <th>Name</th>
+                                                        <th>Rate</th>
+                                                        <th>Description</th>
+                                                        <th>Long Description</th>
+                                                        <th>Creating Is Active</th>
+                                                        <th>Skils Is Active</th>
+                                                        <th>Icon Url</th>
+                                                        <th>Buttonlar</th>
+
+                                                    </tr>
+                                                </thead>
+
+
+                                                <tbody>
+                                                    <tr>
+                                                       
+                                                        <td>Tiger Nixon</td>
+                                                        <td>System Architect</td>
+                                                        <td>Edinburgh</td>
+                                                        <td>Edinburgh</td>
+                                                        <td>
+                                                        <input type="checkbox" id="check-all">
+                                                        </td>
+                                                        <td>
+                                                        <input type="checkbox" id="check-all">
+                                                        </td>
+                                                        <td>61</td>
+                                                        <td>Butonlar</td>
+                                                        
+                                                    </tr>
+                                                   
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+
+                    
+                </div>
+            </div>
+            <!-- /page content -->
+            <!-- footer content -->
+           
+            <!-- /footer content -->
+        </div>
+    </div>
+
+
+</body>
+

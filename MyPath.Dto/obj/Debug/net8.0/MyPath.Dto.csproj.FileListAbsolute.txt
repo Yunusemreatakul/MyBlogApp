@@ -1,0 +1,11 @@
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\bin\Debug\net8.0\MyPath.Dto.deps.json
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\bin\Debug\net8.0\MyPath.Dto.dll
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\bin\Debug\net8.0\MyPath.Dto.pdb
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\obj\Debug\net8.0\MyPath.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\obj\Debug\net8.0\MyPath.Dto.AssemblyInfoInputs.cache
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\obj\Debug\net8.0\MyPath.Dto.AssemblyInfo.cs
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\obj\Debug\net8.0\MyPath.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\obj\Debug\net8.0\MyPath.Dto.dll
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\obj\Debug\net8.0\refint\MyPath.Dto.dll
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\obj\Debug\net8.0\MyPath.Dto.pdb
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Dto\obj\Debug\net8.0\ref\MyPath.Dto.dll

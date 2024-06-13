@@ -1,0 +1,23 @@
+﻿@model MyPath.WebUI.Models.MenuViewModel
+
+<div class="nav-container">
+    <ul class="nav">
+        <li class="nav__item"><a class="active" href="/About/Index/">About</a></li>
+        <li class="nav__item"><a href="/Resume/Index/">Resume</a></li>
+        <li class="nav__item"><a href="/Portfolio/Index/">Portfolio</a></li>
+        <li class="nav__item"><a href="/Blog/Index/">Blog</a></li>
+        <li class="nav__item"><a href="/Contact/Index/">Contact</a></li>
+        @if (Model.IsAuthenticated)
+        {
+            <li class="nav__item">
+                <form asp-controller="LoginRegister" asp-action="Logout" method="post" class="form-inline">
+                    <button type="submit" class="btn btn-link">Logout</button>
+                </form>
+            </li>
+        }
+        else
+        {
+            <li class="nav__item"><a href="/LoginRegister/Index/">Login-Register</a></li>
+        }
+    </ul>
+</div>

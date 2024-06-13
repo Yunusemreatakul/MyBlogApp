@@ -1,0 +1,15 @@
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\bin\Debug\net8.0\MyPath.Application.deps.json
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\bin\Debug\net8.0\MyPath.Application.dll
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\bin\Debug\net8.0\MyPath.Application.pdb
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\MyPath.Application.csproj.AssemblyReference.cache
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\MyPath.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\MyPath.Application.AssemblyInfoInputs.cache
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\MyPath.Application.AssemblyInfo.cs
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\MyPath.Application.csproj.CoreCompileInputs.cache
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\MyPath.Application.dll
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\refint\MyPath.Application.dll
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\MyPath.Application.pdb
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\ref\MyPath.Application.dll
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\bin\Debug\net8.0\MyPath.Domain.dll
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\bin\Debug\net8.0\MyPath.Domain.pdb
+C:\Users\ataku\OneDrive\Masaüstü\MyPath\MyPath.Application\obj\Debug\net8.0\MyPath.Application.csproj.CopyComplete

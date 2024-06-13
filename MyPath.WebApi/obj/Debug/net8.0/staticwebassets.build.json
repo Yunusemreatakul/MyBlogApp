@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UQZKEe5zZuzm+QyDRSjzLmBk+m2vn7UoVg74MU+wH2Y=",
+  "Source": "MyPath.WebApi",
+  "BasePath": "_content/MyPath.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

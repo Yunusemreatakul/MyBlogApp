@@ -1,0 +1,164 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<body class="nav-md">
+    <div class="container body">
+        <div class="main_container">
+            @await Component.InvokeAsync("_AdminMenuComponentPartial")
+
+            <!-- top navigation -->
+            @await Component.InvokeAsync("_AdminTopNavigationComponentPartial")
+            <!-- /top navigation -->
+            <!-- page content -->
+            <div class="right_col" role="main">
+
+
+
+                
+
+                <div class="col-md-12 col-sm-12  ">
+					
+                    <div class="x_panel">
+						
+                        <div class="x_title">
+                            <h2>Profil</h2>
+							
+                            <ul class="nav navbar-right panel_toolbox">
+                                <li>
+                                    <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                                </li>
+                               
+                            </ul>
+
+                            <div class="clearfix"></div>
+                        </div>
+						<button type="submit" class="btn btn-success">Edit</button>
+                        <div class="x_content">
+
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>#</th>
+                                        <th>Tanım</th>
+                                        <th>Değer</th>
+                                        <th>Button</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <th scope="row">1</th>
+                                        <td>Mark</td>
+                                        <td>Otto</td>
+                                        <td>mdo</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-12 ">
+					<div class="x_panel">
+						<div class="x_title">
+							<h2>Profil Oluştur</h2>
+							<ul class="nav navbar-right panel_toolbox">
+								<li>
+									<a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+								</li>
+								
+							</ul>
+							<div class="clearfix"></div>
+						</div>
+						<div class="x_content">
+							<br />
+							<form class="form-horizontal form-label-left">
+
+								<div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Meslek İsmi</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Mesleğinizi Yazın">
+									</div>
+								</div>
+								<div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Doğum Tarihi</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Default Input">
+									</div>
+								</div>
+								<div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Default Input</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Default Input">
+									</div>
+								</div>
+								<div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Default Input</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Default Input">
+									</div>
+								</div>
+								<div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Default Input</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Default Input">
+									</div>
+								</div>
+								<div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Default Input</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Default Input">
+									</div>
+								</div>
+								<div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Default4 Input</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Default Input">
+									</div>
+								</div>
+								<div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Default Input</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Default Input">
+									</div>
+								</div><div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Default Input</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Default Input">
+									</div>
+								</div><div class="form-group row ">
+									<label class="control-label col-md-3 col-sm-3 ">Default Input</label>
+									<div class="col-md-9 col-sm-9 ">
+										<input type="text" class="form-control" placeholder="Default Input">
+									</div>
+								</div>
+								
+								
+									
+								<div class="ln_solid"></div>
+								<div class="form-group">
+									<div class="col-md-9 col-sm-9  offset-md-3">
+										<button type="submit" class="btn btn-success">Submit</button>
+									</div>
+								</div>
+
+							</form>
+						</div>
+					</div>
+				</div>
+
+            </div>
+            <!-- /page content -->
+           
+        </div>
+    </div>
+
+
+
+</body>
+
+
+
+
